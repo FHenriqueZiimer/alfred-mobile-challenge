@@ -6,6 +6,8 @@ Um app para vizualição de pacientes, pesquisa de pacientes e favoritação
 
 ## Capturas de Tela
 
+video: https://photos.app.goo.gl/T96bBsRy1D7fq6dE9
+
 <img src="assets/exemple1.jpeg" alt="drawing" width="250"/>
 <img src="assets/exemple2.jpeg" alt="drawing" width="250"/>
 <img src="assets/exemple3.jpeg" alt="drawing" width="250"/>
